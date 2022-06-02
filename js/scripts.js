@@ -20,7 +20,7 @@ $(document).ready(function() {
   const result = cupToMil(cups);
   //const milliliters = parseFloat($("#milliliter"));
   $("#outputCup").text(result);
-  //$("#outputMil").text(milliliters);
+  //$("#outputMil").text(milliliters);S
   // const celsius = parseInt(prompt("What is the temperature in celsius?"))
 //const fahrenheit = parseInt(prompt("What is the temperature in fahrenheit?"));
   //alert(cToF(celsius));
